@@ -51,6 +51,7 @@ function FAQ() {
   );
 }
 
+// need refactor
 function Cards() {
   return (
     <div className="flex justify-center *:ml-3 -mt-40 [&_h5]:p-2 [&_h5]:text-white [&_h5]:pl-7 [&_button]:w-1/2 *:shadow-xl/50 *:bg-white *:hover:scale-105 *:hover:cursor-pointer">
